@@ -47,7 +47,7 @@ df
 
 ```
 # Output:
-#For encoding.csv file:
+# For encoding.csv file:
 ![image](https://github.com/kanishka2305/ODD2023-Datascience-Ex-05/assets/113497357/bfafa977-c985-43ac-9949-96b60517c3bd)
 ![image](https://github.com/kanishka2305/ODD2023-Datascience-Ex-05/assets/113497357/5f72cc96-f044-49d5-b794-c161980def80)
 ![image](https://github.com/kanishka2305/ODD2023-Datascience-Ex-05/assets/113497357/16f56c79-b508-4cdb-bcaa-14e50a05c1a1)
@@ -86,7 +86,7 @@ df1  = pd.concat([df1,data1],axis=1)
 df1
 ```
 # Output:
-#For Data.csv file:
+# For Data.csv file:
 ![image](https://github.com/kanishka2305/ODD2023-Datascience-Ex-05/assets/113497357/abbe6f19-2af9-4d68-a84d-f23c1709dfec)
 ![image](https://github.com/kanishka2305/ODD2023-Datascience-Ex-05/assets/113497357/64368eb0-96be-4d49-a520-b19dfc9e0d7c)
 ![image](https://github.com/kanishka2305/ODD2023-Datascience-Ex-05/assets/113497357/fafc14aa-2103-437f-878e-8c67ffa9470d)
@@ -108,7 +108,7 @@ df2 = pd.get_dummies(df2, prefix=['Index'] ,columns=['Index'])
 df2
 ```
 # Output:
-#For bmi.csv file:
+# For bmi.csv file:
 ![image](https://github.com/kanishka2305/ODD2023-Datascience-Ex-05/assets/113497357/38cc5fb3-980c-498d-a182-31f6922fdf5d)
 ![image](https://github.com/kanishka2305/ODD2023-Datascience-Ex-05/assets/113497357/02594955-9bb2-4110-93f5-6ce311c080d6)
 ![image](https://github.com/kanishka2305/ODD2023-Datascience-Ex-05/assets/113497357/2ff902ed-e6f9-40ed-9b36-a4f4d57041e2)
