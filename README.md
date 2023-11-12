@@ -17,7 +17,7 @@ STEP 4 :
 Save the data to the file
 #Program:
 ```py
-NAME : Kanishka.V.s
+NAME : Kanishka.V.S
 REG NO : 212222230061
 ```
 # Encoding.csv :
